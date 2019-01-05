@@ -1,0 +1,14 @@
+# Telegram Token Bot
+TelegramTokenBot = ""
+
+# ChatID where to publish posts, you can grab it by sending a message to @RawDataBot
+ChatID = 0
+
+# Sources are subreddits
+Sources = []
+
+#Enable/disable video download function
+VideoDownload = false
+
+# DownloadPath is the path for downloaded videos
+DownloadPath = ""
